@@ -1,3 +1,4 @@
+![Heavenly Hex Gameplay Screenshot](realGame.jpg)
 Heavenly Hex: Snakes and Virtues
 Heavenly Hex เป็นโปรเกมกระดานดิจิทัลที่พัฒนาขึ้นโดยได้รับแรงบันดาลใจจากบอร์ดเกมเชิงธรรมะ "Bull Battle" 
 โดยวัดญาณเวศกวัน https://nyanavesk.online/th/program-detail/BBgame
